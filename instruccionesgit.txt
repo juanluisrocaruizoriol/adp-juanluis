@@ -4,5 +4,5 @@ git add README.md
 git commit -m "first commit" 
 git branch -M main 
 git remote add origin https://github.com/juanluisrocaruizoriol/adp-juanluis.git 
-git remote set-url origin https://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@github.com/juanluisrocaruizoriol/adp-juanluis.git
+git remote set-url origin https://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@github.com/juanluisrocaruizoriol/adp-juanluis.git
 git push -u origin main 
